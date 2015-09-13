@@ -1,0 +1,27 @@
+/* -------------------------
+Imports
+--------------------------*/
+@import '.meteor/local/build/programs/server/assets/packages/reywood_bootstrap3-sass/bootstrap';
+
+/* -------------------------
+Mixins
+--------------------------*/
+
+
+/* -------------------------
+Variables
+--------------------------*/
+
+/* -------------------------
+Styles
+--------------------------*/
+
+
+#iron-router-progress {
+    background-color : #DC681D;
+    box-shadow       : 0 0 5px #DC681D;
+}
+
+.page-actions {
+  margin-top: -46px;
+}
